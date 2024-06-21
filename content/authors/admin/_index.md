@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chashi Mahiul Islam
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chashi Mahiul Islam
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# first_name: Chashi Mahiul
+# last_name: Islam
 
 # Status emoji
 status:
@@ -20,113 +20,130 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Doctoral Student, Dept. of Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Florida State University
+    url: https://www.cs.fsu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'chashi.buet@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/thechashi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/chashi-bd/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=edXWeWkAAAAJ&hl=en&authuser=2
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-4048-5784
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multimodal Learning
+  - Adversarial Robustness
+  - Multimodal Explainability and Interpretability
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Computer Science
+    institution: Florida State Unviersity
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    # date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Computer Science and Engineering
+    institution: Bangladesh University of Engineering and Technology
+    date_start: 2015-02-14
+    date_end: 2019-04-28
     summary: |
-      GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - **Specialized Computer Science Courses**: Artificial Intelligence, Machine Learning, Pattern Recognition, Digital System Design
+      - **Core Computer Science Courses**: Introduction to Computer Systems, Discrete Mathematics, Structured Programming Language, Object Oriented Programming Language, Data Structures, Algorithms, Digital Logic Design, Theory of Computation, Assembly Language Programming, Operating Systems, Computer Architecture, Compiler, Software Development
+      - **Mathematics and Statistics**: Differential Calculus and Coordinate Geometry, Integral Calculus, Ordinary and Partial Differential Equations, and Series Solutions, Complex Variable and Statistics, Matrices, Vectors, Fourier Analysis, and Laplace Transforms, Mathematical Analysis for Computer Science, Numerical Methods
+      - **Computer Networks and Systems**: Computer Networks, Data Communication-I
+      - **Electrical and Electronics Engineering**:
+      Introduction to Electrical Engineering, Digital Electronics and Pulse Techniques, Electronic Devices and Circuits, Electrical Drives and Instrumentation, Microprocessors and Microcontrollers
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Teaching Associate
+    company_name: Florida State University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-01-05
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Responsibilities include taking recitation classes, preparing quiz questions, grading, and holding office hours.
+      -  Courses: Secure, Parallel and Distributed Programming, Data Structure and Algorithms, OOP with C++, Advanced Python, Computer Network Administration
+  - position: Software Developer
+    company_name: CoKreates Limited
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2026-10-22
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Front-end design and development for Admin Panel and Human Resource Module of an ERP system. 
+      - Implemented RESTful APIs for the backend of the HR module and central logging system. 
+      - Stack: Spring Boot, Angular
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+skills:
 skills:
   - name: Technical Skills
     items:
       - name: Python
         description: ''
+        percent: 90
+        icon: code-bracket
+      - name: C/C++
+        description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: JavaScript
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 75
+        icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
+      - name: HTML/CSS
+        description: ''
+        percent: 60
+        icon: code-bracket
+      - name: Data Visualization
+        description: 'Tableau, Matplotlib, Processing, Bokeh'
+        percent: 80
+        icon: chart-bar
+      - name: Frameworks/Libraries/Miscellaneous
+        description: 'PyTorch, HuggingFace, CLIP, Pandas, NumPy, Scikit-learn, Transformers, NLTK, Keras, Angular, React, Spring Boot, Flask, AWS, Google Cloud, Nginx, Gunicorn, Linux, MacOS, Git, Docker, VS Code'
+        percent: 85
+        icon: library
+
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
@@ -141,12 +158,14 @@ skills:
         percent: 80
         icon: camera
 
+
+
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Bengali
+    percent: 100
+  - name: Hindi
     percent: 25
 
 # Awards.
@@ -183,4 +202,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chashi Mahiul Islam is a Ph.D. candidate in Computer Science at Florida State University, focusing on the understanding, robustness, explainability, and interoperability of multimodal systems. His research spans enhancing security in vision-language navigation, improving large language model classifications, and identifying vulnerabilities in vision transformers for medical image analysis. With a strong background in Python, C/C++, and various machine learning frameworks, Chashi's work aims to advance the capabilities and reliability of AI systems.
+

@@ -35,11 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a Ph.D. candidate in Computer Science at Florida State University. My research focuses on understanding, enhancing, and ensuring the robustness and explainability of multimodal systems, including vision-language models and large language models. I apply advanced machine learning techniques to improve the reliability and security of AI systems, with a particular interest in spatial reasoning, adversarial attacks, and image analysis. Please reach out to collaborate.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
