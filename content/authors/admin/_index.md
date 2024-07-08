@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'chashi.buet@gmail.com'
+    url: 'https://chashi.buet@gmail.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -49,18 +49,16 @@ profiles:
 interests:
   - Multimodal Learning
   - Adversarial Robustness
-  - Multimodal Explainability and Interpretability
+  - Explainability and Interpretability
 
 education:
-  - area: PhD Computer Science
+  - area: PhD Computer Science 
     institution: Florida State Unviersity
-    date_start: 2016-01-01
+    date_start: 2020-08-22
     # date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -76,6 +74,9 @@ education:
     institution: Bangladesh University of Engineering and Technology
     date_start: 2015-02-14
     date_end: 2019-04-28
+    button:
+      text: 'Undergraduate Thesis'
+      url: 'https://drive.google.com/file/d/1jGqCXuHgnNsAQW04UNHpRRhoBj9I_b5n/view?usp=sharing'
     summary: |
       
       Courses included:
@@ -96,7 +97,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Responsibilities include taking recitation classes, preparing quiz questions, grading, and holding office hours.
-      -  Courses: Secure, Parallel and Distributed Programming, Data Structure and Algorithms, OOP with C++, Advanced Python, Computer Network Administration
+      -  Courses: Secure, Parallel and Distributed Programming ||  Data Structure and Algorithms ||  OOP with C++ ||  Advanced Python || Computer Network Administration
   - position: Software Developer
     company_name: CoKreates Limited
     company_url: ''
@@ -110,53 +111,52 @@ work:
       - Stack: Spring Boot, Angular
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 90
-        icon: code-bracket
-      - name: C/C++
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: JavaScript
-        description: ''
-        percent: 75
-        icon: code-bracket
-      - name: SQL
-        description: ''
-        percent: 70
-        icon: circle-stack
-      - name: HTML/CSS
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Data Visualization
-        description: 'Tableau, Matplotlib, Processing, Bokeh'
-        percent: 80
-        icon: chart-bar
-      - name: Frameworks/Libraries/Miscellaneous
-        description: 'PyTorch, HuggingFace, CLIP, Pandas, NumPy, Scikit-learn, Transformers, NLTK, Keras, Angular, React, Spring Boot, Flask, AWS, Google Cloud, Nginx, Gunicorn, Linux, MacOS, Git, Docker, VS Code'
-        percent: 85
-        icon: library
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 90
+#         icon: code-bracket
+#       - name: C/C++
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: JavaScript
+#         description: ''
+#         percent: 75
+#         icon: code-bracket
+#       - name: SQL
+#         description: ''
+#         percent: 70
+#         icon: circle-stack
+#       - name: HTML/CSS
+#         description: ''
+#         percent: 60
+#         icon: code-bracket
+#       - name: Data Visualization
+#         description: 'Tableau, Matplotlib, Processing, Bokeh'
+#         percent: 80
+#         icon: chart-bar
+#       - name: Frameworks/Libraries/Miscellaneous
+#         description: 'PyTorch, HuggingFace, CLIP, Pandas, NumPy, Scikit-learn, Transformers, NLTK, Keras, Angular, React, Spring Boot, Flask, AWS, Google Cloud, Nginx, Gunicorn, Linux, MacOS, Git, Docker, VS Code'
+#         percent: 85
+#         icon: library
 
-  - name: Hobbies
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#   - name: Hobbies
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
 
 
@@ -202,5 +202,6 @@ awards:
 
 ## About Me
 
-Chashi Mahiul Islam is a Ph.D. candidate in Computer Science at Florida State University, focusing on the understanding, robustness, explainability, and interoperability of multimodal systems. His research spans enhancing security in vision-language navigation, improving large language model classifications, and identifying vulnerabilities in vision transformers for medical image analysis. With a strong background in Python, C/C++, and various machine learning frameworks, Chashi's work aims to advance the capabilities and reliability of AI systems.
+I am a Ph.D. candidate in Computer Science at Florida State University, focusing on the robustness, explainability, and interpretability of multimodal systems. My research spans various aspects of AI security, model vulnerabilities, and enhancing vision-language understanding. With a strong background in Python, C/C++, and various machine learning frameworks, my work aims to advance the capabilities and reliability of AI systems.
+
 

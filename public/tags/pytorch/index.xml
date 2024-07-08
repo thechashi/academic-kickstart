@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyTorch | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/pytorch/</link>
+      <atom:link href="http://localhost:1313/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <description>PyTorch</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/tags/pytorch/</link>
+    </image>
+    
+    <item>
+      <title>Image Style Transfer with VGG Network</title>
+      <link>http://localhost:1313/project/image_style_transfer/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/image_style_transfer/</guid>
+      <description>&lt;p&gt;Implemented the image style transfer methodology using convolutional neural networks. Utilized a pretrained VGG 19 network to extract the content and style representation from different layers of two images to create a new target image.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image Style Transfer with VGG Network</title>
+      <link>http://localhost:1313/research/image_style_transfer/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/image_style_transfer/</guid>
+      <description>&lt;p&gt;Implemented the image style transfer methodology using convolutional neural networks. Utilized a pretrained VGG 19 network to extract the content and style representation from different layers of two images to create a new target image.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sequence to Sequence Stock Time Series Data Prediction Model</title>
+      <link>http://localhost:1313/project/seq2seq_stock/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/seq2seq_stock/</guid>
+      <description>&lt;p&gt;Developed LSTM-based seq2seq model for stock prediction using Alpha Vantage API and PyTorch. Implemented various functionalities including CLI for stock prediction, data plotting, model saving, and integration with custom datasets. Achieved accurate predictions and provided extensive documentation and usage guidelines.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

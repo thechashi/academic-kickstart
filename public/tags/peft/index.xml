@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PEFT | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/peft/</link>
+      <atom:link href="http://localhost:1313/tags/peft/index.xml" rel="self" type="application/rss+xml" />
+    <description>PEFT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>PEFT</title>
+      <link>http://localhost:1313/tags/peft/</link>
+    </image>
+    
+    <item>
+      <title>Deciphering Poorly Formatted Text using Private LLM</title>
+      <link>http://localhost:1313/project/private_llm/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/private_llm/</guid>
+      <description>&lt;p&gt;Process unstructured text data from document files efficiently, prioritizing data privacy with the implementation of locally hosted private large language models. Employed a PEFT model (LoRA) to optimize finetuning for the summarizer and classifier, yielding improved performance metrics with the help of prompt engineering and LLM reasoning.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

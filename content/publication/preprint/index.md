@@ -1,49 +1,72 @@
 ---
-title: "An example preprint / working paper"
+title: 'InnerEye: A Tale on Images Filtered Using Instagram Filters - How Do We Interact with them and How Can We Automatically Identify the Extent of Filtering?'
+
+# Authors
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+  - Gazi Abdur Rakib
+  - Rudaiba Adnin
+  - Shekh Ahammed Adnan Bashir
+  - Chashi Mahiul Islam
+  - Abir Mohammad Turza
+  - Saad Manzur
+  - Monowar Anjum Rashik
+  - Abdus Salam Azad
+  - Tusher Chakraborty
+  - Sydur Rahaman
+  - Muhammad Rayhan Shikder
+  - Syed Ishtiaque Ahmed
+  - A. B. M. Alim Al Islam
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+
+date: '2023-06-27T00:00:00Z'
+doi: '10.1007/978-3-031-34776-4_26'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: '2023-06-27T00:00:00Z'
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: In *MobiQuitous 2022*
+publication_short: In *MobiQuitous*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Even though digitally filtered images are taking over the Internet for their aesthetic appeal, general people often feel betrayed if they are dealt with filtered images. Our study, comprising a series of structured surveys over images filtered using Instagram filters, reveals that different people perceive the filtered images differently. However, people have a common need for an automated tool to help them distinguish between original and filtered images. Accordingly, we develop an automated tool named ‘InnerEye’, which is capable of identifying how far an image is filtered or not. InnerEye utilizes a novel analytical design of a Neural Network Model that learns from a diverse set of images filtered using Instagram filters. Rigorous objective and subjective evaluations confirm the efficacy of InnerEye in identifying the extent of filtering in the images.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study examines the interaction with and identification of images filtered using Instagram filters, culminating in the development of an automated tool, InnerEye, for detecting the extent of image filtering.
 
 tags:
-- Large Language Models
+  - Images
+  - Filters
+  - Survey
+  - Deep Learning
 
+# Display this page in the Featured widget?
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
@@ -52,7 +75,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -62,10 +85,12 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

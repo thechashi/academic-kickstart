@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VGG Net | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/vgg-net/</link>
+      <atom:link href="http://localhost:1313/tags/vgg-net/index.xml" rel="self" type="application/rss+xml" />
+    <description>VGG Net</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>VGG Net</title>
+      <link>http://localhost:1313/tags/vgg-net/</link>
+    </image>
+    
+    <item>
+      <title>Image Style Transfer with VGG Network</title>
+      <link>http://localhost:1313/project/image_style_transfer/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/image_style_transfer/</guid>
+      <description>&lt;p&gt;Implemented the image style transfer methodology using convolutional neural networks. Utilized a pretrained VGG 19 network to extract the content and style representation from different layers of two images to create a new target image.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image Style Transfer with VGG Network</title>
+      <link>http://localhost:1313/research/image_style_transfer/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/image_style_transfer/</guid>
+      <description>&lt;p&gt;Implemented the image style transfer methodology using convolutional neural networks. Utilized a pretrained VGG 19 network to extract the content and style representation from different layers of two images to create a new target image.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

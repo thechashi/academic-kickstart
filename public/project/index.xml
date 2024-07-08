@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Hugo Academic CV Theme</title>
+    <title>Projects | Chashi Mahiul Islam</title>
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,27 +13,83 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>Deciphering Poorly Formatted Text using Private LLM</title>
+      <link>http://localhost:1313/project/private_llm/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/private_llm/</guid>
+      <description>&lt;p&gt;Process unstructured text data from document files efficiently, prioritizing data privacy with the implementation of locally hosted private large language models. Employed a PEFT model (LoRA) to optimize finetuning for the summarizer and classifier, yielding improved performance metrics with the help of prompt engineering and LLM reasoning.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>Patient Severity Prediction - Mutlivariate Time Series Data</title>
+      <link>http://localhost:1313/project/multivariate_time_series/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/multivariate_time_series/</guid>
+      <description>&lt;p&gt;Enhance hospital decision-making in patient care by constructing a predictive model using time-series data and radiology reports to forecast intracerebral hemorrhage outcomes. The XGBoost-based model achieved an accuracy of 74.11% and precision of 75.51%, demonstrating its capacity to identify high-risk patients. Data collection was sourced from PubMed.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Comparison of Summarization Techniques Using Language Models</title>
+      <link>http://localhost:1313/project/summarization_models/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/summarization_models/</guid>
+      <description>&lt;p&gt;Explored various NLP tasks and the impact of transformer-based models on text summarization, focusing on BERT, GPT-2, and T5. Compared different summarization approaches, including DistilBART, Facebook BART, and Conversational BART, to generate effective summaries of medical reports. Addressed challenges related to input size constraints and domain-specific vocabulary.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web scrapin - Higher Education Funding Offers</title>
+      <link>http://localhost:1313/project/web_scrapping/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/web_scrapping/</guid>
+      <description>&lt;p&gt;This project is focused on addressing funding challenges for international students in US higher education. Developed a web scraping pipeline using tools such as requests, Selenium, BeautifulSoup, pandas, and re to extract extensive information on professors from CSRank rankings who are looking for new students.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cryptic Species Classification Using SVM</title>
+      <link>http://localhost:1313/project/cryptic_species/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cryptic_species/</guid>
+      <description>&lt;p&gt;Developed a model using Support Vector Machines (SVMs) to classify two cryptic species of shellfish, achieving 97% accuracy. Explained SVM concepts and mathematical formulations, including handling complex data with slack variables and kernel tricks. Highlighted the effectiveness of SVMs in species classification without genetic analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Preprocessing for Kaggle Dataset</title>
+      <link>http://localhost:1313/project/data_prerpocessing/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/data_prerpocessing/</guid>
+      <description>&lt;p&gt;Preprocessed a Kaggle dataset, employing various data cleaning methods and feature engineering techniques. Implemented strategies like dropping NaN values, one-hot encoding, and median imputation, resulting in an average accuracy of 0.76. Enhanced features from Name and Cabin variables, leading to improved model performance, with SVM accuracy reaching 0.81. Highlighted the importance of feature engineering and effectiveness of ensemble models.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NYC Air Quality Data Analysis</title>
+      <link>http://localhost:1313/project/air_quality_data/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/air_quality_data/</guid>
+      <description>&lt;p&gt;Analyzed NYC air quality data focusing on pollutants like Nitrogen dioxide, Sulfur dioxide, Ozone, and PM2.5. Demonstrated a positive trend in air quality improvement over the past decade, with significant reductions in Nitrogen dioxide and PM2.5 emissions. Employed data visualization techniques to highlight the impact of emission norms and regulations, and emphasized the importance of maintaining good air quality and continuing pollution reduction efforts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News Website with a Recommendation System</title>
+      <link>http://localhost:1313/project/new_website/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/new_website/</guid>
+      <description>&lt;p&gt;Built a platform that displays stories using the Hacker News API and suggests the most recent stories based on user preferences for older stories. Implemented a LSTM based binary classifier on story meta data to predict user preference.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image Style Transfer with VGG Network</title>
+      <link>http://localhost:1313/project/image_style_transfer/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/image_style_transfer/</guid>
+      <description>&lt;p&gt;Implemented the image style transfer methodology using convolutional neural networks. Utilized a pretrained VGG 19 network to extract the content and style representation from different layers of two images to create a new target image.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sequence to Sequence Stock Time Series Data Prediction Model</title>
+      <link>http://localhost:1313/project/seq2seq_stock/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/seq2seq_stock/</guid>
+      <description>&lt;p&gt;Developed LSTM-based seq2seq model for stock prediction using Alpha Vantage API and PyTorch. Implemented various functionalities including CLI for stock prediction, data plotting, model saving, and integration with custom datasets. Achieved accurate predictions and provided extensive documentation and usage guidelines.&lt;/p&gt;</description>
     </item>
     
   </channel>

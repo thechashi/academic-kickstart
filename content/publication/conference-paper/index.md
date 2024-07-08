@@ -1,40 +1,41 @@
 ---
-title: 'An example conference paper'
+title: 'Uncovering the Interplay of Demographics and Healthcare Provider Availability on CMS HCC Risk Scores for Disabled Beneficiaries'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Mohammad Ishtiaque Rahman
+  - Forhan Bin Emdad
+  - Chashi Mahiul Islam
+  - Zhe He
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-11-09T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-11-09T00:00:00Z'
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *IEEE-EMBS International Conference on Biomedical and Health Informatics*
+publication_short: In *IEEE-EMBS*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study illuminates the impact of demographic characteristics and the availability of healthcare providers on the CMS HCC risk score for disabled beneficiaries. Capitalizing on county-level data from 587 US counties, we investigated the influence of various demographic variables including population, household median income, unemployment rate, the proportion of older adults, population with a disability, educational attainment, insurance coverage, and race, alongside healthcare resource-related variables such as the number of primary physicians per 100k population, the percentage of adults with dedicated caregivers, and the number of available Home Health Agencies (HHAs) on CMS HCC disability risk score. The results indicate that race, specifically the African American population, and median household income are pivotal in influencing the risk scores. Additionally, the number of HHAs and the proportion of adults with dedicated caregivers emerged as crucial factors. This research underlines the need for a multi-faceted approach to healthcare resource allocation and interventions, taking into account both demographic characteristics and care provider availability, to optimize health outcomes for disabled individuals.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study examines the impact of demographics and healthcare provider availability on CMS HCC risk scores for disabled beneficiaries, highlighting key factors such as race, income, and healthcare resources.
 
 tags:
-  - Large Language Models
+  - Healthcare
+  - Demographics
+  - Risk Scores
+  - CMS
+  - Disability
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,19 +46,19 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  focal_point: 'center'
   preview_only: false
 
 # Associated Projects (optional).

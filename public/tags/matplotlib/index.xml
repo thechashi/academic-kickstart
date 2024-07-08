@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matplotlib | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/matplotlib/</link>
+      <atom:link href="http://localhost:1313/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matplotlib</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Matplotlib</title>
+      <link>http://localhost:1313/tags/matplotlib/</link>
+    </image>
+    
+    <item>
+      <title>NYC Air Quality Data Analysis</title>
+      <link>http://localhost:1313/project/air_quality_data/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/air_quality_data/</guid>
+      <description>&lt;p&gt;Analyzed NYC air quality data focusing on pollutants like Nitrogen dioxide, Sulfur dioxide, Ozone, and PM2.5. Demonstrated a positive trend in air quality improvement over the past decade, with significant reductions in Nitrogen dioxide and PM2.5 emissions. Employed data visualization techniques to highlight the impact of emission norms and regulations, and emphasized the importance of maintaining good air quality and continuing pollution reduction efforts.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

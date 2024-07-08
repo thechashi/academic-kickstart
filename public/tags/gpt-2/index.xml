@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPT-2 | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/gpt-2/</link>
+      <atom:link href="http://localhost:1313/tags/gpt-2/index.xml" rel="self" type="application/rss+xml" />
+    <description>GPT-2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>GPT-2</title>
+      <link>http://localhost:1313/tags/gpt-2/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of Summarization Techniques Using Language Models</title>
+      <link>http://localhost:1313/project/summarization_models/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/summarization_models/</guid>
+      <description>&lt;p&gt;Explored various NLP tasks and the impact of transformer-based models on text summarization, focusing on BERT, GPT-2, and T5. Compared different summarization approaches, including DistilBART, Facebook BART, and Conversational BART, to generate effective summaries of medical reports. Addressed challenges related to input size constraints and domain-specific vocabulary.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

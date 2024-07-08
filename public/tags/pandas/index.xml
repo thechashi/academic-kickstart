@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pandas | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/pandas/</link>
+      <atom:link href="http://localhost:1313/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pandas</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Pandas</title>
+      <link>http://localhost:1313/tags/pandas/</link>
+    </image>
+    
+    <item>
+      <title>Data Preprocessing for Kaggle Dataset</title>
+      <link>http://localhost:1313/project/data_prerpocessing/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/data_prerpocessing/</guid>
+      <description>&lt;p&gt;Preprocessed a Kaggle dataset, employing various data cleaning methods and feature engineering techniques. Implemented strategies like dropping NaN values, one-hot encoding, and median imputation, resulting in an average accuracy of 0.76. Enhanced features from Name and Cabin variables, leading to improved model performance, with SVM accuracy reaching 0.81. Highlighted the importance of feature engineering and effectiveness of ensemble models.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NYC Air Quality Data Analysis</title>
+      <link>http://localhost:1313/project/air_quality_data/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/air_quality_data/</guid>
+      <description>&lt;p&gt;Analyzed NYC air quality data focusing on pollutants like Nitrogen dioxide, Sulfur dioxide, Ozone, and PM2.5. Demonstrated a positive trend in air quality improvement over the past decade, with significant reductions in Nitrogen dioxide and PM2.5 emissions. Employed data visualization techniques to highlight the impact of emission norms and regulations, and emphasized the importance of maintaining good air quality and continuing pollution reduction efforts.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

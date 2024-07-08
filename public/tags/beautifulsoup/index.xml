@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BeautifulSoup | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/beautifulsoup/</link>
+      <atom:link href="http://localhost:1313/tags/beautifulsoup/index.xml" rel="self" type="application/rss+xml" />
+    <description>BeautifulSoup</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>BeautifulSoup</title>
+      <link>http://localhost:1313/tags/beautifulsoup/</link>
+    </image>
+    
+    <item>
+      <title>Web scrapin - Higher Education Funding Offers</title>
+      <link>http://localhost:1313/project/web_scrapping/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/web_scrapping/</guid>
+      <description>&lt;p&gt;This project is focused on addressing funding challenges for international students in US higher education. Developed a web scraping pipeline using tools such as requests, Selenium, BeautifulSoup, pandas, and re to extract extensive information on professors from CSRank rankings who are looking for new students.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
