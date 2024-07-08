@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/matlab/</link>
+      <atom:link href="http://localhost:1313/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <description>MATLAB</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>MATLAB</title>
+      <link>http://localhost:1313/tags/matlab/</link>
+    </image>
+    
+    <item>
+      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
+      <link>http://localhost:1313/research/brain_tumor/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/brain_tumor/</guid>
+      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
+enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
+improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
+      <link>http://localhost:1313/research/multimodal_classification/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/multimodal_classification/</guid>
+      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
+enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
+improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
+      <link>http://localhost:1313/research/path_manipulation/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/path_manipulation/</guid>
+      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
+enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
+improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
+      <link>http://localhost:1313/research/super_resolution/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/super_resolution/</guid>
+      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
+enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
+improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
+      <link>http://localhost:1313/research/visual_spatial_reasoning/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/visual_spatial_reasoning/</guid>
+      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
+enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
+improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
+      <link>http://localhost:1313/research/vit_analysis/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/vit_analysis/</guid>
+      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
+enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
+improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

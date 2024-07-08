@@ -55,11 +55,43 @@
     </item>
     
     <item>
+      <title>Enhancing Visual Spatial Reasoning through Multi-Task Learning</title>
+      <link>http://localhost:1313/research/visual_spatial_reasoning/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/visual_spatial_reasoning/</guid>
+      <description>&lt;p&gt;Developed a vision-language model incorporating spatial features like depth maps, 3D coordinates, and edge maps through multi-task learning, improving spatial understanding and achieving state-of-the-art results on the Visual Spatial Reasoning (VSR) dataset.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Attacks on Aligned Large Language Models</title>
+      <link>http://localhost:1313/research/llm_adversarial_attack/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/llm_adversarial_attack/</guid>
+      <description>&lt;p&gt;Developed a novel adversarial attack technique for Large Language Models, leveraging regularized gradients with continuous optimization to generate valid tokens and significantly improve attack efficiency and success rates&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Exploitation in Robot Vision-Language Navigation</title>
+      <link>http://localhost:1313/research/path_manipulation/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/path_manipulation/</guid>
+      <description>&lt;p&gt;Developed a novel algorithm to adversarially modify images, exploiting the semantic representation gaps in vision-language models, enabling controlled redirection of robot navigation paths through minimal image alterations. Improved security through a detection mechanism sensitive to noise in manipulated images.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Inherent Vulnerabilities of Vision Transformers for Medical Image Classification</title>
+      <link>http://localhost:1313/research/medical_image_adversarial_attack/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/medical_image_adversarial_attack/</guid>
+      <description>&lt;p&gt;Explored vulnerabilities in vision transformers for medical image classification, demonstrating that minor modifications can significantly alter representations, and developed an efficient detection method to enhance model reliability.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -288,7 +320,7 @@
 
 
 
-&lt;div id=&#34;chart-294713568&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-851976432&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -306,7 +338,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-294713568&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-851976432&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -931,6 +963,14 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Multimodal Classification with LLMs - Unstructured Text Feature Extraction</title>
+      <link>http://localhost:1313/research/multimodal_classification/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/multimodal_classification/</guid>
+      <description>&lt;p&gt;Developing text data processing pipelines with private large language models to extract meaningful features with in-context reasoning and developing fusion models to improve classification scores by combining unstructured and tabular data in multimodal settings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>InnerEye: A Tale on Images Filtered Using Instagram Filters - How Do We Interact with them and How Can We Automatically Identify the Extent of Filtering?</title>
       <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
@@ -1016,11 +1056,11 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>News Website with a Recommendation System</title>
-      <link>http://localhost:1313/research/new_website/</link>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/new_website/</guid>
-      <description>&lt;p&gt;Built a platform that displays stories using the Hacker News API and suggests the most recent stories based on user preferences for older stories. Implemented a LSTM based binary classifier on story meta data to predict user preference.&lt;/p&gt;</description>
+      <title>Leveraging Superresolution for Enhanced Analysis of Low-Resolution Content</title>
+      <link>http://localhost:1313/research/super_resolution/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/super_resolution/</guid>
+      <description>&lt;p&gt;Evaluated SOTA models for identifying low-resolution deep fakes in collected videos, and enhanced low-resolution deep fake detection, resulting in up to 19% test accuracy improvement on FaceShifter dataset using Xception Net.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1032,19 +1072,31 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Image Style Transfer with VGG Network</title>
-      <link>http://localhost:1313/research/image_style_transfer/</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/image_style_transfer/</guid>
-      <description>&lt;p&gt;Implemented the image style transfer methodology using convolutional neural networks. Utilized a pretrained VGG 19 network to extract the content and style representation from different layers of two images to create a new target image.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Sequence to Sequence Stock Time Series Data Prediction Model</title>
       <link>http://localhost:1313/project/seq2seq_stock/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/seq2seq_stock/</guid>
       <description>&lt;p&gt;Developed LSTM-based seq2seq model for stock prediction using Alpha Vantage API and PyTorch. Implemented various functionalities including CLI for stock prediction, data plotting, model saving, and integration with custom datasets. Achieved accurate predictions and provided extensive documentation and usage guidelines.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
+      <link>http://localhost:1313/research/brain_tumor/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/brain_tumor/</guid>
+      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
+enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
+improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
+      <link>http://localhost:1313/research/vit_analysis/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/vit_analysis/</guid>
+      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
+enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
+improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
     </item>
     
     <item>

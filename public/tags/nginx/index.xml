@@ -20,13 +20,5 @@
       <description>&lt;p&gt;Built a platform that displays stories using the Hacker News API and suggests the most recent stories based on user preferences for older stories. Implemented a LSTM based binary classifier on story meta data to predict user preference.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>News Website with a Recommendation System</title>
-      <link>http://localhost:1313/research/new_website/</link>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/new_website/</guid>
-      <description>&lt;p&gt;Built a platform that displays stories using the Hacker News API and suggests the most recent stories based on user preferences for older stories. Implemented a LSTM based binary classifier on story meta data to predict user preference.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

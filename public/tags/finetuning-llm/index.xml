@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finetuning LLM | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/finetuning-llm/</link>
+      <atom:link href="http://localhost:1313/tags/finetuning-llm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finetuning LLM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Finetuning LLM</title>
+      <link>http://localhost:1313/tags/finetuning-llm/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Classification with LLMs - Unstructured Text Feature Extraction</title>
+      <link>http://localhost:1313/research/multimodal_classification/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/multimodal_classification/</guid>
+      <description>&lt;p&gt;Developing text data processing pipelines with private large language models to extract meaningful features with in-context reasoning and developing fusion models to improve classification scores by combining unstructured and tabular data in multimodal settings.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

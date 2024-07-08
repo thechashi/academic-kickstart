@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Image Style Transfer with VGG Network</title>
-      <link>http://localhost:1313/research/image_style_transfer/</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/image_style_transfer/</guid>
-      <description>&lt;p&gt;Implemented the image style transfer methodology using convolutional neural networks. Utilized a pretrained VGG 19 network to extract the content and style representation from different layers of two images to create a new target image.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Sequence to Sequence Stock Time Series Data Prediction Model</title>
       <link>http://localhost:1313/project/seq2seq_stock/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OPENCV | Chashi Mahiul Islam</title>
+    <link>http://localhost:1313/tags/opencv/</link>
+      <atom:link href="http://localhost:1313/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    <description>OPENCV</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>OPENCV</title>
+      <link>http://localhost:1313/tags/opencv/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing Visual Spatial Reasoning through Multi-Task Learning</title>
+      <link>http://localhost:1313/research/visual_spatial_reasoning/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/visual_spatial_reasoning/</guid>
+      <description>&lt;p&gt;Developed a vision-language model incorporating spatial features like depth maps, 3D coordinates, and edge maps through multi-task learning, improving spatial understanding and achieving state-of-the-art results on the Visual Spatial Reasoning (VSR) dataset.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
