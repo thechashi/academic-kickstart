@@ -88,12 +88,21 @@ education:
       Introduction to Electrical Engineering, Digital Electronics and Pulse Techniques, Electronic Devices and Circuits, Electrical Drives and Instrumentation, Microprocessors and Microcontrollers
 
 work:
+  - position: Graduate Research Associate
+    company_name: Florida State University
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-08-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Conducting research on robustness and explainability of multimodal AI systems, focusing on vision-language models, large language models, and applying machine learning techniques to enhance AI reliability and security.
   - position: Graduate Teaching Associate
     company_name: Florida State University
     company_url: ''
     company_logo: ''
     date_start: 2021-01-05
-    date_end: ''
+    date_end: 2024-07-31
     summary: |2-
       Responsibilities include:
       - Responsibilities include taking recitation classes, preparing quiz questions, grading, and holding office hours.
