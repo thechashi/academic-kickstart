@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: https://drive.google.com/file/d/1GLczMVFEWQ9wMFrNJ2HPFKMOeK-2Gwic/view?usp=sharing
+        url: https://drive.google.com/file/d/1ELJ6jqWqqeKEZ1nxvIntGyrKCBfqf3J2/view?usp=sharing
     design:
       css_class: dark
       background:
