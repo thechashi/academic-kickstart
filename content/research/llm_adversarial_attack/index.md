@@ -1,12 +1,14 @@
 ---
-title: Adversarial Attacks on Aligned Large Language Models
-date: 2024-06-08
-# external_link: https://drive.google.com/file/d/1jGqCXuHgnNsAQW04UNHpRRhoBj9I_b5n/view?usp=sharing
+title: 'Adversarial Attacks on Aligned Large Language Models'
+date: 2024-01-01
+external_link: ''
 tags:
-  - Transformers
-  - LLaMa-2
+  - LLMs
+  - Adversarial Attacks
+  - Optimization
 ---
 
-Developed a novel adversarial attack technique for Large Language Models, leveraging regularized gradients with continuous optimization to generate valid tokens and significantly improve attack efficiency and success rates
+- Developed an adversarial attack for LLMs using regularized gradients with continuous optimization to generate valid tokens.
+- Improved attack success rate by ~60% and reduced the time taken by 3 orders of magnitude, significantly enhancing efficiency.
 
 <!--more-->

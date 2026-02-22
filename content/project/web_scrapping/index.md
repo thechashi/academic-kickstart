@@ -1,13 +1,14 @@
 ---
-title: Web scrapin - Higher Education Funding Offers
-date: 2023-03-20
-external_link: https://github.com/thechashi/Data-Science-Graduate-Projects/tree/main/5.%20Webscrapping%3A%20Funding%20Offer
+title: 'Web scraping: Higher Education Funding Offers'
+date: 2023-01-15
+external_link: 'https://github.com/thechashi/Data-Science-Graduate-Projects/tree/main'
 tags:
   - Selenium
-  - Scikit_learn
   - BeautifulSoup
+  - Pandas
 ---
 
-This project is focused on addressing funding challenges for international students in US higher education. Developed a web scraping pipeline using tools such as requests, Selenium, BeautifulSoup, pandas, and re to extract extensive information on professors from CSRank rankings who are looking for new students.
+- Addressed funding challenges for international students in US by developing a comprehensive web scraping pipeline.
+- Used requests, Selenium, BeautifulSoup, and pandas to extract data on professors from the CSRankings website who are seeking new students.
 
 <!--more-->

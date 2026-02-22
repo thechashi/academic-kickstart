@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Doctoral Student, Dept. of Computer Science
+role: Doctoral Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,12 +31,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'https://chashi.buet@gmail.com'
+    url: 'mailto:chashi.buet@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/thechashi
   - icon: brands/linkedin
@@ -47,170 +43,160 @@ profiles:
     url: https://orcid.org/0009-0000-4048-5784
 
 interests:
-  - Multimodal Learning
-  - Adversarial Robustness
-  - Explainability and Interpretability
+  - Robustness of Large Multimodal Models
+  - Adversarial Machine Learning
+  - Vision-Language Models
+  - AI Security & Reliability
 
 education:
   - area: PhD Computer Science 
-    institution: Florida State Unviersity
-    date_start: 2020-08-22
-    # date_end: 2020-12-31
+    institution: Florida State University
+    date_start: 2021-01-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Advised by [Dr. Xiuwen Liu](https://www.cs.fsu.edu/~liux/). Research focuses on the robustness and explainability of multimodal AI systems, with a particular emphasis on vision-language models and large language models. Expected graduation: December 2026.
 
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
+  - area: MSc Computer Science
+    institution: Florida State University
+    date_start: 2021-01-01
+    date_end: 2025-08-01
+    summary: |
+      CGPA: 3.97/4.00
 
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Computer Science and Engineering
-    institution: Bangladesh University of Engineering and Technology
+    institution: Bangladesh University of Engineering and Technology (BUET)
     date_start: 2015-02-14
     date_end: 2019-04-28
     button:
       text: 'Undergraduate Thesis'
       url: 'https://drive.google.com/file/d/1jGqCXuHgnNsAQW04UNHpRRhoBj9I_b5n/view?usp=sharing'
     summary: |
-      
-      Courses included:
-      - **Specialized Computer Science Courses**: Artificial Intelligence, Machine Learning, Pattern Recognition, Digital System Design
-      - **Core Computer Science Courses**: Introduction to Computer Systems, Discrete Mathematics, Structured Programming Language, Object Oriented Programming Language, Data Structures, Algorithms, Digital Logic Design, Theory of Computation, Assembly Language Programming, Operating Systems, Computer Architecture, Compiler, Software Development
-      - **Mathematics and Statistics**: Differential Calculus and Coordinate Geometry, Integral Calculus, Ordinary and Partial Differential Equations, and Series Solutions, Complex Variable and Statistics, Matrices, Vectors, Fourier Analysis, and Laplace Transforms, Mathematical Analysis for Computer Science, Numerical Methods
-      - **Computer Networks and Systems**: Computer Networks, Data Communication-I
-      - **Electrical and Electronics Engineering**:
-      Introduction to Electrical Engineering, Digital Electronics and Pulse Techniques, Electronic Devices and Circuits, Electrical Drives and Instrumentation, Microprocessors and Microcontrollers
+      Core courses included Artificial Intelligence, Machine Learning, Pattern Recognition, and Digital System Design.
 
 work:
-  - position: Graduate Research Associate
+  - position: Software Engineer Intern
+    company_name: Meta
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-05-12
+    date_end: 2025-08-15
+    summary: |2-
+      - Optimized large-scale ranking systems by implementing feature selection techniques and developing scalable data pipelines to integrate new features, improving key metrics in feed ranking models.
+  - position: Graduate Research Assistant
     company_name: Florida State University
     company_url: ''
     company_logo: ''
     date_start: 2024-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
       - Conducting research on robustness and explainability of multimodal AI systems, focusing on vision-language models, large language models, and applying machine learning techniques to enhance AI reliability and security.
-  - position: Graduate Teaching Associate
+  - position: Graduate Teaching Assistant
     company_name: Florida State University
     company_url: ''
     company_logo: ''
     date_start: 2021-01-05
     date_end: 2024-07-31
     summary: |2-
-      Responsibilities include:
-      - Responsibilities include taking recitation classes, preparing quiz questions, grading, and holding office hours.
-      -  Courses: Secure, Parallel and Distributed Programming ||  Data Structure and Algorithms ||  OOP with C++ ||  Advanced Python || Computer Network Administration
+      - Led recitations, developed assessments, and provided support for 60-90 students in courses including Secure, Parallel & Distributed Programming, Data Structures, Advanced Python, and OOP with C++.
   - position: Software Developer
     company_name: CoKreates Limited
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2026-10-22
+    date_start: 2019-08-01
+    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Front-end design and development for Admin Panel and Human Resource Module of an ERP system. 
-      - Implemented RESTful APIs for the backend of the HR module and central logging system. 
-      - Stack: Spring Boot, Angular
+      - Designed and developed front-end for Admin Panel and HR modules of an ERP system using Angular.
+      - Implemented RESTful APIs for the HR module and central logging system using Spring Boot.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 90
-#         icon: code-bracket
-#       - name: C/C++
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: JavaScript
-#         description: ''
-#         percent: 75
-#         icon: code-bracket
-#       - name: SQL
-#         description: ''
-#         percent: 70
-#         icon: circle-stack
-#       - name: HTML/CSS
-#         description: ''
-#         percent: 60
-#         icon: code-bracket
-#       - name: Data Visualization
-#         description: 'Tableau, Matplotlib, Processing, Bokeh'
-#         percent: 80
-#         icon: chart-bar
-#       - name: Frameworks/Libraries/Miscellaneous
-#         description: 'PyTorch, HuggingFace, CLIP, Pandas, NumPy, Scikit-learn, Transformers, NLTK, Keras, Angular, React, Spring Boot, Flask, AWS, Google Cloud, Nginx, Gunicorn, Linux, MacOS, Git, Docker, VS Code'
-#         percent: 85
-#         icon: library
-
-#   - name: Hobbies
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
-
-
+skills:
+  - name: Programming
+    items:
+      - name: Python
+        description: ''
+        percent: 95
+        icon: code-bracket
+      - name: C/C++
+        description: ''
+        percent: 85
+        icon: code-bracket
+      - name: JavaScript
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: SQL
+        description: ''
+        percent: 75
+        icon: circle-stack
+      - name: HTML/CSS
+        description: ''
+        percent: 70
+        icon: code-bracket
+  - name: Machine Learning & Tools
+    items:
+      - name: PyTorch & TensorFlow
+        description: ''
+        percent: 90
+        icon: library
+      - name: Vision-Language Models
+        description: 'CLIP, Vision Transformers'
+        percent: 85
+        icon: eye
+      - name: LLMs & GenAI
+        description: 'Transformers, PEFT, LangChain, AutoGen'
+        percent: 80
+        icon: chat-bubble-bottom-center-text
+      - name: Data Analysis
+        description: 'Pandas, NumPy, Scikit-learn, Matplotlib'
+        percent: 90
+        icon: chart-bar
+      - name: Cloud & DevOps
+        description: 'AWS, Google Cloud, Docker, Git'
+        percent: 75
+        icon: cloud
 
 languages:
   - name: English
     percent: 100
   - name: Bengali
     percent: 100
-  - name: Hindi
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Naaman Franklin Faile Jr. Graduate Fellowship
+    url: ''
+    date: '2025-08-01'
+    awarder: Florida State University
+    icon: academicons/fsu
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded the Naaman Franklin Faile Jr. Graduate Fellowship for the Fall 2025 semester.
+  - title: 1st Runner-up, ACM at FSU Fall Programming Contest
+    url: ''
+    date: '2024-10-01'
+    awarder: ACM FSU Chapter
+    icon: trophy
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Achieved 1st runner-up in the annual programming contest.
+  - title: 2nd Runner-up, ACM at FSU Fall Programming Contest
+    url: ''
+    date: '2023-10-01'
+    awarder: ACM FSU Chapter
+    icon: trophy
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Achieved 2nd runner-up in the annual programming contest.
+  - title: President, BUET Film Society
+    url: ''
+    date: '2018-01-01'
+    awarder: Bangladesh University of Engineering and Technology
+    icon: film
+    summary: |
+      Led the film society at BUET, organizing events and promoting film culture among students.
 ---
 
 ## About Me
 
-I am a Ph.D. candidate in Computer Science at Florida State University, focusing on the robustness, explainability, and interpretability of multimodal systems. My research spans various aspects of AI security, model vulnerabilities, and enhancing vision-language understanding. With a strong background in Python, C/C++, and various machine learning frameworks, my work aims to advance the capabilities and reliability of AI systems.
+I am a Ph.D. candidate in Computer Science at Florida State University, focusing on the robustness, explainability, and interpretability of multimodal systems. My research spans various aspects of AI security, model vulnerabilities, and enhancing vision-language understanding. I am particularly interested in identifying representation vulnerabilities in Vision Transformers and Multimodal Large Language Models (MLLMs) and developing mechanisms to ensure their reliability in real-world applications.
 
 

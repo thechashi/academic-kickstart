@@ -32,10 +32,17 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research Focus'
       subtitle: ''
       text: |-
-        I’m a Ph.D. candidate in Computer Science at Florida State University. My research focuses on understanding, enhancing, and ensuring the robustness and explainability of multimodal systems, including vision-language models and large language models. I apply advanced machine learning techniques to improve the reliability and security of AI systems, with a particular interest in visual reasoning, adversarial attacks, and image analysis. Please reach out to collaborate.
+        I am a Ph.D. candidate at Florida State University, where I investigate the **robustness, security, and interpretability of multimodal AI systems**. My research aims to understand how representation vulnerabilities in Vision Transformers and Large Multimodal Models (LMMs) propagate into downstream tasks like robotic navigation and complex decision-making.
+
+        Key areas of interest include:
+        *   **Adversarial Robustness**: Neutralizing vulnerabilities in ViTs and MLLMs.
+        *   **Multimodal Learning**: Enhancing visual-spatial reasoning and cross-modal alignment.
+        *   **AI Reliability**: Identifying and mitigating numerical instabilities and hallucination triggers in LLMs.
+
+        I am passionate about building AI that is not only powerful but also reliable and safe for real-world deployment. Feel free to reach out for collaborations!
 
     design:
       columns: '1'

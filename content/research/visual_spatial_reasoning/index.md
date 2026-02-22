@@ -1,15 +1,14 @@
 ---
-title: Enhancing Visual Spatial Reasoning through Multi-Task Learning
-date: 2024-06-16
-# external_link: https://drive.google.com/file/d/1jGqCXuHgnNsAQW04UNHpRRhoBj9I_b5n/view?usp=sharing
+title: 'Enhancing Visual Spatial Reasoning through Multi-Task Learning'
+date: 2025-01-01
+external_link: ''
 tags:
-  - LXMERT
-  - OPENCV
-  - Edge Mapping
-  - Depth Mapping
-  - Trasnformers
+  - Vision-Language Models
+  - Spatial Reasoning
+  - Multi-Task Learning
 ---
 
-Developed a vision-language model incorporating spatial features like depth maps, 3D coordinates, and edge maps through multi-task learning, improving spatial understanding and achieving state-of-the-art results on the Visual Spatial Reasoning (VSR) dataset.
+- Developed SpatialViLT, a vision-language model integrating depth maps, 3D coordinates, and edge representations to improve spatial grounding and cross-modal alignment in embodied intelligence systems.
+- Leveraged multi-task learning to enhance 3D scene understanding for downstream robotic navigation and manipulation, improving Visual Spatial Reasoning (VSR) benchmark performance by 2.1%.
 
 <!--more-->

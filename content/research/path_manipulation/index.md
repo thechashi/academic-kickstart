@@ -1,12 +1,15 @@
 ---
-title: Adversarial Exploitation in Robot Vision-Language Navigation
-date: 2024-03-15
-# external_link: https://drive.google.com/file/d/1jGqCXuHgnNsAQW04UNHpRRhoBj9I_b5n/view?usp=sharing
+title: 'Adversarial Exploitation in Robot Vision-Language Navigation'
+date: 2024-09-01
+external_link: 'https://github.com/programminglove08/RobustnessVisualNav/tree/main'
 tags:
-  - CLIP
-  - LM_NAV
+  - Vision-Language Navigation
+  - Robot Navigation
+  - Adversarial Attacks
 ---
 
-Developed a novel algorithm to adversarially modify images, exploiting the semantic representation gaps in vision-language models, enabling controlled redirection of robot navigation paths through minimal image alterations. Improved security through a detection mechanism sensitive to noise in manipulated images.
+- Developed a vision-language navigation (VLN) framework for embodied robotic agents, analyzing perception-to-action pipelines within vision-language-action (VLA) architectures.
+- Studied how representation shifts propagate through navigation policy networks, affecting task planning and real-world embodied decision making.
+- Achieved 91.7% landmark-conditioned path redirection and proposed a robustness-aware detection mechanism improving navigation policy stability by 96.3%.
 
 <!--more-->

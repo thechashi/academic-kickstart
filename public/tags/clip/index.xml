@@ -17,7 +17,7 @@
       <link>http://localhost:1313/research/path_manipulation/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/path_manipulation/</guid>
-      <description>&lt;p&gt;eveloped a novel algorithm to adversarially modify images, exploiting the semantic representation gaps in vision-language models, enabling controlled redirection of robot navigation paths through minimal image alterations. Improved security through a detection mechanism sensitive to noise in manipulated images.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Developed a novel algorithm to adversarially modify images, exploiting the semantic representation gaps in vision-language models, enabling controlled redirection of robot navigation paths through minimal image alterations. Improved security through a detection mechanism sensitive to noise in manipulated images.&lt;/p&gt;</description>
     </item>
     
   </channel>

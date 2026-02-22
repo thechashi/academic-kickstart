@@ -1,84 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Research | Chashi Mahiul Islam</title>
-    <link>http://localhost:1313/research/</link>
-      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Research</title>
-      <link>http://localhost:1313/research/</link>
-    </image>
-    
-    <item>
-      <title>Enhancing Visual Spatial Reasoning through Multi-Task Learning</title>
-      <link>http://localhost:1313/research/visual_spatial_reasoning/</link>
-      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/visual_spatial_reasoning/</guid>
-      <description>&lt;p&gt;Developed a vision-language model incorporating spatial features like depth maps, 3D coordinates, and edge maps through multi-task learning, improving spatial understanding and achieving state-of-the-art results on the Visual Spatial Reasoning (VSR) dataset.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Adversarial Attacks on Aligned Large Language Models</title>
-      <link>http://localhost:1313/research/llm_adversarial_attack/</link>
-      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/llm_adversarial_attack/</guid>
-      <description>&lt;p&gt;Developed a novel adversarial attack technique for Large Language Models, leveraging regularized gradients with continuous optimization to generate valid tokens and significantly improve attack efficiency and success rates&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Adversarial Exploitation in Robot Vision-Language Navigation</title>
-      <link>http://localhost:1313/research/path_manipulation/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/path_manipulation/</guid>
-      <description>&lt;p&gt;Developed a novel algorithm to adversarially modify images, exploiting the semantic representation gaps in vision-language models, enabling controlled redirection of robot navigation paths through minimal image alterations. Improved security through a detection mechanism sensitive to noise in manipulated images.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Inherent Vulnerabilities of Vision Transformers for Medical Image Classification</title>
-      <link>http://localhost:1313/research/medical_image_adversarial_attack/</link>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/medical_image_adversarial_attack/</guid>
-      <description>&lt;p&gt;Explored vulnerabilities in vision transformers for medical image classification, demonstrating that minor modifications can significantly alter representations, and developed an efficient detection method to enhance model reliability.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Multimodal Classification with LLMs - Unstructured Text Feature Extraction</title>
-      <link>http://localhost:1313/research/multimodal_classification/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/multimodal_classification/</guid>
-      <description>&lt;p&gt;Developing text data processing pipelines with private large language models to extract meaningful features with in-context reasoning and developing fusion models to improve classification scores by combining unstructured and tabular data in multimodal settings.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Leveraging Superresolution for Enhanced Analysis of Low-Resolution Content</title>
-      <link>http://localhost:1313/research/super_resolution/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/super_resolution/</guid>
-      <description>&lt;p&gt;Evaluated SOTA models for identifying low-resolution deep fakes in collected videos, and enhanced low-resolution deep fake detection, resulting in up to 19% test accuracy improvement on FaceShifter dataset using Xception Net.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
-      <link>http://localhost:1313/research/brain_tumor/</link>
-      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/brain_tumor/</guid>
-      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
-enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
-improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Retrieval of Brain Tumor with Region Based Image Segmentation</title>
-      <link>http://localhost:1313/research/vit_analysis/</link>
-      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/vit_analysis/</guid>
-      <description>&lt;p&gt;Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
-enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
-improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research | Chashi Mahiul Islam</title><link>https://example.com/research/</link><atom:link href="https://example.com/research/index.xml" rel="self" type="application/rss+xml"/><description>Research</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url><title>Research</title><link>https://example.com/research/</link></image><item><title>Neural Expansion: A Unified Mechanism for Deep Network Generalization</title><link>https://example.com/research/neural_expansion/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://example.com/research/neural_expansion/</guid><description>&lt;p>Proposed Generalization Intervals framework explaining why more than 90% of correct predictions occur within directional stability regions defined by Jacobian singular values. This work provides a unified mechanism to understand how deep networks generalize to unseen data.&lt;/p></description></item><item><title>Enhancing Visual Spatial Reasoning through Multi-Task Learning</title><link>https://example.com/research/visual_spatial_reasoning/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://example.com/research/visual_spatial_reasoning/</guid><description>&lt;ul>
+&lt;li>Developed SpatialViLT, a vision-language model integrating depth maps, 3D coordinates, and edge representations to improve spatial grounding and cross-modal alignment in embodied intelligence systems.&lt;/li>
+&lt;li>Leveraged multi-task learning to enhance 3D scene understanding for downstream robotic navigation and manipulation, improving Visual Spatial Reasoning (VSR) benchmark performance by 2.1%.&lt;/li>
+&lt;/ul></description></item><item><title>Robust Vision Transformers (ViTs) - Understanding and Mitigating Representation Vulnerabilities</title><link>https://example.com/research/vit_analysis/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://example.com/research/vit_analysis/</guid><description>&lt;p>Examined vulnerabilities in Vision Transformers (ViTs), revealing how small input changes affect layer-wise representations. Proposed NeuroShield-ViT to neutralize vulnerable neurons and enhance adversarial robustness. Improved classification accuracy by 54.85% against PGD attacks and 71.6% against IGO attacks on ImageNet1K.&lt;/p></description></item><item><title>The Illusion of Precision: Numerical Instability of Large Language Models</title><link>https://example.com/research/llm_precision_illusion/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>https://example.com/research/llm_precision_illusion/</guid><description>&lt;p>Discovered microscopic input perturbations cause 10-million-fold amplification in LLMs, collapsing logit margins and triggering unpredictable token flips. This study highlights fundamental reliability gaps in current large language models.&lt;/p></description></item><item><title>Adversarial Exploitation in Robot Vision-Language Navigation</title><link>https://example.com/research/path_manipulation/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://example.com/research/path_manipulation/</guid><description>&lt;ul>
+&lt;li>Developed a vision-language navigation (VLN) framework for embodied robotic agents, analyzing perception-to-action pipelines within vision-language-action (VLA) architectures.&lt;/li>
+&lt;li>Studied how representation shifts propagate through navigation policy networks, affecting task planning and real-world embodied decision making.&lt;/li>
+&lt;li>Achieved 91.7% landmark-conditioned path redirection and proposed a robustness-aware detection mechanism improving navigation policy stability by 96.3%.&lt;/li>
+&lt;/ul></description></item><item><title>Adversarial Attacks on Aligned Large Language Models</title><link>https://example.com/research/llm_adversarial_attack/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://example.com/research/llm_adversarial_attack/</guid><description>&lt;ul>
+&lt;li>Developed an adversarial attack for LLMs using regularized gradients with continuous optimization to generate valid tokens.&lt;/li>
+&lt;li>Improved attack success rate by ~60% and reduced the time taken by 3 orders of magnitude, significantly enhancing efficiency.&lt;/li>
+&lt;/ul></description></item><item><title>Multimodal Classification with LLMs - Unstructured Text Feature Extraction</title><link>https://example.com/research/multimodal_classification/</link><pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/research/multimodal_classification/</guid><description>&lt;ul>
+&lt;li>Created text processing pipelines with private LLMs for feature extraction through in-context learning.&lt;/li>
+&lt;li>Built fusion models combining unstructured and tabular data, boosting multimodal classification accuracy from 76% to 83%.&lt;/li>
+&lt;/ul></description></item><item><title>Inherent Vulnerabilities of Vision Transformers for Medical Image Classification</title><link>https://example.com/research/medical_image_adversarial_attack/</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>https://example.com/research/medical_image_adversarial_attack/</guid><description>&lt;ul>
+&lt;li>Explored vulnerabilities in vision transformers, showing that minor changes significantly alter representations.&lt;/li>
+&lt;li>Developed an efficient detection method achieving 73.1% accuracy, enhancing model reliability for medical image classification.&lt;/li>
+&lt;/ul></description></item><item><title>Leveraging Superresolution for Enhanced Analysis of Low-Resolution Content</title><link>https://example.com/research/super_resolution/</link><pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate><guid>https://example.com/research/super_resolution/</guid><description>&lt;ul>
+&lt;li>Evaluated SOTA models for identifying low-resolution deep fakes in collected video data.&lt;/li>
+&lt;li>Improved deep fake detection, boosting test accuracy by 19% on the FaceShifter dataset with Xception Net.&lt;/li>
+&lt;/ul></description></item><item><title>Retrieval of Brain Tumor with Region Based Image Segmentation</title><link>https://example.com/research/brain_tumor/</link><pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate><guid>https://example.com/research/brain_tumor/</guid><description>&lt;ul>
+&lt;li>Engineered an automated brain tumor segmentation pipeline with Anisotropic Filtering for denoising and skull removal.&lt;/li>
+&lt;li>Achieved an 11.58% precision increase and 9.1% accuracy improvement over the SOTA adaptive filtering method.&lt;/li>
+&lt;/ul></description></item></channel></rss>

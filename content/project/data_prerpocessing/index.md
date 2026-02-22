@@ -1,12 +1,14 @@
 ---
-title: Data Preprocessing for Kaggle Dataset
-date: 2023-01-25
-external_link: https://github.com/thechashi/Data-Science-Graduate-Projects/tree/main/3.%20Data%20Preprocessing%3A%20Titanic%20Dataset
+title: 'Data Preprocessing for Kaggle Dataset'
+date: 2023-02-15
+external_link: 'https://github.com/thechashi/Data-Science-Graduate-Projects/tree/main'
 tags:
-  - Scikit-Learn
+  - Python
   - Pandas
+  - Feature Engineering
 ---
 
-Preprocessed a Kaggle dataset, employing various data cleaning methods and feature engineering techniques. Implemented strategies like dropping NaN values, one-hot encoding, and median imputation, resulting in an average accuracy of 0.76. Enhanced features from Name and Cabin variables, leading to improved model performance, with SVM accuracy reaching 0.81. Highlighted the importance of feature engineering and effectiveness of ensemble models.  
+- Preprocessed a Kaggle dataset using a variety of data cleaning and feature engineering techniques, including dropping NaN values, one-hot encoding, and median imputation.
+- Enhanced key features from Name and Cabin variables, increasing SVM accuracy by 7.3% and improving overall model performance.
 
 <!--more-->

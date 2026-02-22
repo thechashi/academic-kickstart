@@ -1,7 +1,7 @@
 ---
-title: News Website with a Recommendation System
+title: 'News Website with a Recommendation System'
 date: 2022-12-12
-external_link: https://github.com/thechashi/hackernews
+external_link: 'https://github.com/thechashi/hackernews'
 tags:
   - Flask
   - Gunicorn
@@ -9,6 +9,7 @@ tags:
   - Auth0
 ---
 
-Built a platform that displays stories using the Hacker News API and suggests the most recent stories based on user preferences for older stories. Implemented a LSTM based binary classifier on story meta data to predict user preference. 
+- Built a platform displaying stories from the Hacker News API, suggesting recent stories based on user preferences.
+- Implemented an LSTM-based classifier on story metadata to predict user preferences, improving recommendation accuracy.
 
 <!--more-->

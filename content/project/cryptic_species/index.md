@@ -1,12 +1,14 @@
 ---
-title: Cryptic Species Classification Using SVM
+title: 'Cryptic Species Classification Using SVM'
 date: 2023-03-10
-external_link: https://github.com/thechashi/Data-Science-Graduate-Projects/blob/main/4.%20Cryptic%20Species%20Classification%3A%20SVM/Code/project_svm_chashi_renata_manikanta.ipynb
+external_link: 'https://github.com/thechashi/Data-Science-Graduate-Projects/tree/main'
 tags:
   - Scikit-Learn
   - SVM
+  - Biology
 ---
 
-Developed a model using Support Vector Machines (SVMs) to classify two cryptic species of shellfish, achieving 97\% accuracy. Explained SVM concepts and mathematical formulations, including handling complex data with slack variables and kernel tricks. Highlighted the effectiveness of SVMs in species classification without genetic analysis. 
+- Used an SVM model to classify cryptic shellfish species with 97% accuracy, demonstrating classification without genetic analysis.
+- Explained SVM concepts like slack variables and kernel tricks to handle complex data and boost performance.
 
 <!--more-->

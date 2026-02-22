@@ -1,14 +1,14 @@
 ---
-title: Retrieval of Brain Tumor with Region Based Image Segmentation
+title: 'Retrieval of Brain Tumor with Region Based Image Segmentation'
 date: 2019-04-14
-external_link: https://drive.google.com/file/d/1jGqCXuHgnNsAQW04UNHpRRhoBj9I_b5n/view?usp=sharing
+external_link: 'https://drive.google.com/file/d/1jGqCXuHgnNsAQW04UNHpRRhoBj9I_b5n/view?usp=sharing'
 tags:
+  - Image Segmentation
   - MATLAB
-  - MRI Images
+  - Medical Imaging
 ---
 
-Developed an automated brain tumor image segmentation pipeline, incorporating Anisotropic Filtering for denoising, contrast
-enhancement, and skull removal, resulting in a remarkable 11.58% increase in precision and a minor 0.1% accuracy
-improvement when compared to the state-of-the-art method for brain tumor segmentation employing adaptive filtering.
+- Engineered an automated brain tumor segmentation pipeline with Anisotropic Filtering for denoising and skull removal.
+- Achieved an 11.58% precision increase and 9.1% accuracy improvement over the SOTA adaptive filtering method.
 
 <!--more-->
